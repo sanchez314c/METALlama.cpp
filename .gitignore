@@ -1,0 +1,67 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Python/Conda
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Binaries and build artifacts
+build/
+*.o
+*.a
+*.dylib
+*.out
+
+# Logs
+*.log
+log/
+logs/
+
+# Model files
+models/*.gguf
+*.bin
+*.pt
+*.model
+
+# Environment
+.env
+.venv
+.conda
+conda-env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Cache
+.cache/
+__pycache__/
+
+# Node modules if you use any JavaScript
+node_modules/
