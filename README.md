@@ -1,4 +1,4 @@
-# METALlama.cpp - (Slick, Snarky, and Subtle)
+# METALlama.cpp (Slick, Snarky, and Subtle)
 
 Alright, you tech-wrangling genius, strap in. Welcome to METALlama.cpp, the sharpest, most ahem brilliantly overengineered macOS installer for llama.cpp, crafted to milk every bit of Metal/MPS power from your forgotten Intel Mac with an AMD GPU. Apple ditched you Intel folks like yesterday's news, leaving your aging MacBooks and Hackintoshes to choke on macOS's neglect. Llama inference on these relics? Like running a spaceship on a hamster wheel—slow, sad, and full of quiet despair. But this script is your mastermind solution, transforming your dusty rig into a zippy, AI-chatting powerhouse, ready to pipe its API into your favorite apps like a pro.
 
