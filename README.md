@@ -1,6 +1,6 @@
 # METALlama.cpp
 
-A macOS installer for llama.cpp optimized for Metal/MPS acceleration on Apple Silicon and Intel Macs.
+A macOS installer for llama.cpp optimized for Metal/MPS acceleration on Apple & Hackintosh Intel Macs.
 
 ## Features
 
@@ -13,7 +13,7 @@ A macOS installer for llama.cpp optimized for Metal/MPS acceleration on Apple Si
 ## Requirements
 
 - macOS 11.0 or later
-- Apple Silicon or Intel Mac with Metal support
+- Intel Mac with Metal support (AMD)
 - Conda or Miniconda installed
 - Hugging Face account with authentication token
 
